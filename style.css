@@ -1,0 +1,40 @@
+body
+{
+  
+  background: #079fce;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.labe
+{
+  color: black;
+  border-style: solid;
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 20px;
+  background-color: antiquewhite;
+}
+.gesturemean
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 20px;
+  letter-spacing:10px;
+  border-radius: 15px;
+}
+p{
+  font-size: 50px;
+}
